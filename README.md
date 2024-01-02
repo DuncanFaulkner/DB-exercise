@@ -1,5 +1,11 @@
 # DeutsheBank
 
+# Project set up
+
+Converted .xlsm data file into JSON - this made it easier to work with, if I hade more time I would have looked into using something like JSSheet.
+
+This project uses JSON-Server to load the db.json file and needs to be served on localhost:3000/NACE_REV2_20210204_135820 once JSON-Server has been installed.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
 
 ## Development server
